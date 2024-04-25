@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  it's my first script for tampermonkey.try to take over the world!
 // @author       my name aaaaaaaaaa
-// @match        https://github.com/curbe454/how-to-use-git-
+// @match        *://*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
 // @license MIT
