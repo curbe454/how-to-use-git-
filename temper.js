@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         test script
 // @namespace    https://github.com/curbe454/
-// @version      2024-04-25
+// @version      0.2
 // @description  it's my first script for tampermonkey.try to take over the world!
 // @author       my name aaaaaaaaaa
 // @match        https://github.com/curbe454/how-to-use-git-
@@ -20,6 +20,6 @@
     'use strict';
 
     // Your code here...
-    console.log('hello tampermonkey!');
+    console.log('hello again tampermonkey!');
     }
 )(); // 这个括号表示执行这个函数(不传入参数?)
