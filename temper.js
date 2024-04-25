@@ -7,6 +7,7 @@
 // @match        https://github.com/curbe454/how-to-use-git-
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 // (@match is the website to run the js)
