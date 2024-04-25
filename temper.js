@@ -15,8 +15,8 @@
 // (@grant is the power(authority))
 
 
-(// 这个括号创建一个匿名函数
-    function() {
+(// 这个括号引用这个匿名函数
+    function() { // 这个括号声明这个匿名函数
     'use strict';
 
     // Your code here...
