@@ -21,5 +21,6 @@
 
     // Your code here...
     console.log('hello again tampermonkey!');
+    console.log('now I should go to learn HTML and javaScript');
     }
 )(); // 这个括号表示执行这个函数(不传入参数?)
